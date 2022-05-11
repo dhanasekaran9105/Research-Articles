@@ -12,3 +12,4 @@ Keeping track of what I read
 9. A deep unsupervised language model for protein design Noelia Ferruz, Steffen Schmidt, Birte Höcker bioRxiv 2022.03.09.483666; doi: https://doi.org/10.1101/2022.03.09.483666
 10. Höcker, Birte and Zielonka, Stefan. "Protein engineering & design: hitting new heights" Biological Chemistry, vol. 403, no. 5-6, 2022, pp. 453-453. https://doi.org/10.1515/hsz-2022-013
 11. Ferruz, N., Höcker, B. Dreaming ideal protein structures. Nat Biotechnol 40, 171–172 (2022). https://doi.org/10.1038/s41587-021-01196-9
+12. Shape-Morphing of an Artificial Protein Cage with Unusual Geometry Induced by a Single Amino Acid Change https://pubs.acs.org/doi/10.1021/acsnanoscienceau.2c00019#.YnsadlhB28w.twitter 
