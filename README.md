@@ -14,9 +14,10 @@ Keeping track of what I read
 11. Ferruz, N., Höcker, B. Dreaming ideal protein structures. Nat Biotechnol 40, 171–172 (2022). https://doi.org/10.1038/s41587-021-01196-9
 12. Shape-Morphing of an Artificial Protein Cage with Unusual Geometry Induced by a Single Amino Acid Change https://pubs.acs.org/doi/10.1021/acsnanoscienceau.2c00019#.YnsadlhB28w.twitter 
 13. State-of-the-Art Estimation of Protein Model Accuracy using AlphaFold. James P. Roney, Sergey Ovchinnikov bioRxiv 2022.03.11.484043; doi: https://doi.org/10.1101/2022.03.11.484043
-14. **Machine learning for proteins**
-15. **Reviews:**
-16. Applications of artificial intelligence to enzyme and pathway design for metabolic engineering.
+14. Ruffolo JA, Sulam J, Gray JJ. Antibody structure prediction using interpretable deep learning. Patterns (N Y). 2021 Dec 9;3(2):100406. doi: 10.1016/j.patter.2021.100406. PMID: 35199061; PMCID: PMC8848015.
+15. **Machine learning for proteins**
+16. **Reviews:**
+17. Applications of artificial intelligence to enzyme and pathway design for metabolic engineering.
 Woo Dae Jang, Gi Bae Kim, Yeji Kim, Sang Yup Lee.
 Current Opinion in Biotechnology, February 2022.
 [10.1016/j.copbio.2021.07.024]
